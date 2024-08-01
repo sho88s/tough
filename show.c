@@ -10,3 +10,10 @@ int main() {
 	printf("Hello, World!\n");
 	return 0;
 }
+
+# Allow cover attorney number baby mind dream peace.
+#include <stdio.h>
+int main() {
+	printf("Hello, World!\n");
+	return 0;
+}
