@@ -24,3 +24,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Side miss market everything teacher.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
