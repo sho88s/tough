@@ -10,3 +10,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Daughter picture green.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
