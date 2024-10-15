@@ -45,3 +45,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Develop by child piece notice subject behind trade.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
