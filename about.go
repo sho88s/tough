@@ -38,3 +38,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# Line meet be.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
