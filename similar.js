@@ -8,3 +8,6 @@ console.log("Hello, World!");
 
 # His under direction seem know.
 console.log("Hello, World!");
+
+# This notice purpose.
+console.log("Hello, World!");
