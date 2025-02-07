@@ -11,3 +11,6 @@ console.log("Hello, World!");
 
 # This notice purpose.
 console.log("Hello, World!");
+
+# Suddenly rest own.
+console.log("Hello, World!");
